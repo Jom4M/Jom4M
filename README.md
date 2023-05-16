@@ -24,3 +24,13 @@
 
 ![Jom4M GitHub stats](https://github-readme-stats.vercel.app/api?username=Jom4M&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jom4M&theme=radical)](https://git.io/streak-stats) 
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=02D9F7FF&point=f9fafa&area=true&hide_border=true)
+		
+<div align="center">
+<br><p align="centre"><b>Visitors Count ✨ </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+<br>
+</div>		
+		
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)		
