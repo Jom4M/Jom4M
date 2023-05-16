@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jom4M>
 <h3 align="center">I’m junior graphic designer and accountant⭐.</h3>
-
-<br>
-
+<p align="center">
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Ser+o+no+ser+y+yo+soy+🥀&center=true&width=380&height=45">
+  
   - 🤔 I am looking for help to understand more about the world of technology
 - 💬 Ask me about everything you want
 - 😄 Pronouns: he/she
@@ -20,5 +22,5 @@
 
   ### Here's my github README stats:
 
-![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jom4M&show_icons=true&theme=radical) 
+![Jom4M GitHub stats](https://github-readme-stats.vercel.app/api?username=Jom4M&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jom4M&theme=radical)](https://git.io/streak-stats) 
