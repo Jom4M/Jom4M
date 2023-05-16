@@ -4,12 +4,13 @@
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Ser+o+no+ser+y+yo+soy+🥀&center=true&width=380&height=45">
-  
+
+<div>		
   - 🤔 I am looking for help to understand more about the world of technology
 - 💬 Ask me about everything you want
 - 😄 Pronouns: he/she
 - 🩷 Anime
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/jom4_22" target="blank"><img align="center"
