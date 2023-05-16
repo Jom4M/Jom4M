@@ -20,17 +20,18 @@
       alt="jome_20" height="30" width="40" /></a>
 </p>
 
-  ### Here's my github README stats:
-
 ![Jom4M GitHub stats](https://github-readme-stats.vercel.app/api?username=Jom4M&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jom4M&theme=radical)](https://git.io/streak-stats) 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=02D9F7FF&point=f9fafa&area=true&hide_border=true)
+
+[![Jom4M's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jom4M&bg_color=0d1117&color=ffffff&line=B255FF&point=f9fafa&area=true&hide_border=true)](https://github.com/Jom4M)
 		
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count ✨ </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{✨}/count.svg" /></p> 
 <br>
 </div>		
+
 		
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)		
