@@ -12,10 +12,10 @@
 <p align="left">
   <a href="https://www.facebook.com/)" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+      alt="Jose Maria Ferrufino Aracena" height="30" width="40" /></a>
+  <a href="https://instagram.com/jom4_22" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+      alt="jom4_22" height="30" width="40" /></a>
  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
