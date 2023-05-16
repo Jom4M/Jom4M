@@ -17,3 +17,8 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="jome_20" height="30" width="40" /></a>
 </p>
+
+  ### Here's my github README stats:
+
+![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jom4M&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jom4M&theme=radical)](https://git.io/streak-stats) 
